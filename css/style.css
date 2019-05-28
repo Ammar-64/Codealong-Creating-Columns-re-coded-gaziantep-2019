@@ -96,7 +96,7 @@ img, video, audio {
 .col-3 {
   background: #ccc;
 }
-.clearfix:after {
+.clearfix::after {
   content: ".";
   display: block;
   visibility: hidden;
